@@ -1,0 +1,52 @@
+body {
+  background-image: linear-gradient(to right bottom, red, orange);
+  height: 130vh;
+  
+}
+button {
+  width: 150px;
+  color: gold;
+  background-image: linear-gradient(to right, red, purple, blue);
+  
+  border-radius: 30px;
+  border-width: 3px;
+  border-color: gold;
+  border-style: solid;
+  height: 40px;
+  margin-top: 30px;
+  
+  
+}
+iframe {
+  border-style: solid;
+  border-width: 4px;
+  border-top-color: yellow;
+  border-bottom-color: yellow;
+  border-left-color: greenyellow;
+  border-right-color: greenyellow;
+  border-radius: 9px;
+  
+}
+.joe {
+  color: blue;
+  height: 60px;
+  width: 500px;
+  background-color: transparent;
+  font-size: 50px;
+  padding-left: 50px;
+  display: grid;
+  position: relative;
+  padding: 10px;
+  margin-left: 350px;
+}
+.logo {
+  display: grid;
+  height: 70px;
+  width: 70px;
+  padding: 70px;
+  position: absolute;
+  margin: -10px;
+  padding: 10px;
+  margin-left: 250px;
+}
+
